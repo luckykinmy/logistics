@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\Java\eclipse2019-6\workspace-logistic\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2204863405.index
+856862404.index
+2930077191.index
+936342938.index
+2978243853.index
+1739645356.index
+3367054854.index
